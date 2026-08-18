@@ -14,98 +14,29 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
                         <div className="header-left">
                             <div className="header-logo">
                                 <Link className="d-flex" href="/">
-                                    <img className="light-mode" alt="Carento" src="/assets/imgs/template/logo-d.svg" />
-                                    <img className="dark-mode" alt="Carento" src="/assets/imgs/template/logo-w.svg" />
+                                    <img alt="Carento" src="/assets/logo.webp" style={{ maxHeight: "40px", width: "auto" }} />
                                 </Link>
                             </div>
                             <div className="header-nav">
                                 <nav className="nav-main-menu">
                                     <ul className="main-menu">
-                                        <li className="has-children">
-                                            <Link href="#">Home</Link>
-                                            <ul className="sub-menu">
-                                                <li>
-                                                    <Link href="/">Home page v1</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/index-2">Home page v2</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/index-3">Home page v3</Link>
-                                                </li>
-                                            </ul>
+                                        <li>
+                                            <Link href="/">Home</Link>
                                         </li>
-                                        <li className="mega-li-small has-children">
-                                            <Link href="#">Vehicles</Link>
-                                            <div className="mega-menu">
-                                                <div className="mega-menu-inner mega-menu-inner-small">
-                                                    <div className="row">
-                                                        <div className="col-lg-6">
-                                                            <h6 className="text-lg-bold neutral-1000">Cars List</h6>
-                                                            <ul className="sub-menu">
-                                                                <li>
-                                                                    <Link href="/cars-list-1">Cars List v1</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-list-2">Cars List v2</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-list-3">Cars List v3</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-list-4">Cars List v4</Link>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div className="col-lg-6">
-                                                            <h6 className="text-lg-bold neutral-1000">Car Details</h6>
-                                                            <ul className="sub-menu">
-                                                                <li>
-                                                                    <Link href="/cars-details-1">Car Details v1</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-details-2">Car Details v2</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-details-3">Car Details v3</Link>
-                                                                </li>
-                                                                <li>
-                                                                    <Link href="/cars-details-4">Car Details v4</Link>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                        <li>
+                                            <Link href="/cars-list-1">Vehicles</Link>
                                         </li>
-                                        <li className="mega-li-small has-children">
-                                            <Link href="#">Dealers</Link>
-                                            <div className="mega-menu">
-                                                <div className="mega-menu-inner mega-menu-inner-small mega-menu-inner-destinations">
-                                                    <ul className="sub-menu">
-                                                        <li>
-                                                            <Link href="/dealer-listing">Dealers Listing</Link>
-                                                        </li>
-                                                        <li>
-                                                            <Link href="/dealer-details">Dealer Details</Link>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+                                        <li>
+                                            <Link href="/dealer-listing">Dealers</Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/shop-list">Shop</Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/blog-grid">News</Link>
                                         </li>
                                         <li className="has-children">
-                                            <Link href="#">Shop</Link>
-                                            <ul className="sub-menu">
-                                                <li>
-                                                    <Link href="/shop-list">Shop Grid</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/shop-details">Product Details</Link>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li className="has-children">
-                                            <Link href="#">Pages</Link>
+                                            <Link href="#">More</Link>
                                             <ul className="sub-menu">
                                                 <li>
                                                     <Link href="/about-us">About Us</Link>
@@ -139,24 +70,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li className="has-children">
-                                            <Link href="#">News</Link>
-                                            <ul className="sub-menu">
-                                                <li>
-                                                    <Link href="/blog-grid">News Grid</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/blog-list">News List</Link>
-                                                </li>
-                                                <li>
-                                                    <Link href="/blog-details">News Details</Link>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <Link href="/contact">Contact</Link>
-                                        </li>
-                                    </ul>
+                                                                            </ul>
                                 </nav>
                             </div>
                             <div className="header-right">

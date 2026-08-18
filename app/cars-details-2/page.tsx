@@ -14,7 +14,7 @@ export default function CarsDetails2() {
     };
     return (
         <>
-            <Layout footerStyle={1}>
+            <Layout headerStyle={3} footerStyle={1}>
                 <div>
                     <section className="box-section box-breadcrumb background-body">
                         <div className="container">

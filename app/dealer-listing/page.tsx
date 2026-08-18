@@ -7,7 +7,7 @@ export default function DealerListing() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<div>
 					<div className="page-header pt-30 background-body">
 						<div className="custom-container position-relative mx-auto">

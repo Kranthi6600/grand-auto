@@ -12,7 +12,7 @@ export default function Calculator() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<div>
 					<section className="section-cta-11 background-body pt-85 pb-85">
 						<div className="container">

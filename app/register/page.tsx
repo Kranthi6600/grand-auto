@@ -6,7 +6,7 @@ export default function Register() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<div className="container pt-140 pb-170">
 					<div className="row">
 						<div className="col-lg-5 mx-auto">

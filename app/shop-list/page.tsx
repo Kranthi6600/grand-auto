@@ -7,7 +7,7 @@ export default function ShopList() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<div>
 					<div className="page-header-2 pt-30 background-body">
 						<div className="custom-container position-relative mx-auto">

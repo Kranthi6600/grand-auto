@@ -5,7 +5,7 @@ export default function CarCard1({ car }: any) {
 		<>
 			<div className="card-journey-small background-card hover-up">
 					<div className="card-image">
-						<Link href="/cars-details-1">
+						<Link href="/cars-details-2">
 							<img src={`/assets/imgs/cars-listing/cars-listing-6/${car.image}`} alt="Carento" />
 						</Link>
 					</div>
@@ -16,7 +16,7 @@ export default function CarCard1({ car }: any) {
 								<span className="rating text-xs-medium rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 							</div>
 						</div>
-						<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-1">{car.name}</Link></div>
+						<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-2">{car.name}</Link></div>
 						<div className="card-program">
 							<div className="card-location">
 								<p className="text-location text-sm-medium neutral-500">New South Wales, Australia</p>
@@ -32,7 +32,7 @@ export default function CarCard1({ car }: any) {
 									<h6 className="text-lg-bold neutral-1000">$89.32</h6>
 									<p className="text-md-medium neutral-500">/ day</p>
 								</div>
-								<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+								<div className="card-button"><Link className="btn btn-gray" href="/cars-details-2">Book Now</Link></div>
 							</div>
 						</div>
 					</div>

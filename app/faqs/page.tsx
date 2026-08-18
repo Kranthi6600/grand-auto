@@ -13,7 +13,7 @@ export default function Faqs() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<div>
 					<section className="box-section background-2 py-96">
 						<div className="container">

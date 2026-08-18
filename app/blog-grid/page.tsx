@@ -8,7 +8,7 @@ export default function BlogGrid() {
 	return (
 		<>
 
-			<Layout footerStyle={1}>
+			<Layout headerStyle={3} footerStyle={1}>
 				<section className="box-section background-body pt-80">
 					<div className="container">
 						<div className="text-center  mb-40">
