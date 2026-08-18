@@ -1,7 +1,7 @@
 
 import Link from "next/link"
 
-export default function Banners2() {
+export default function BannersSecondary() {
 	return (
 		<>
 

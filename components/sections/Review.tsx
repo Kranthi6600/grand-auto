@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import Link from "next/link";
 import { swiperGroup1 } from "@/util/swiperOptions";
 
-export default function Review2() {
+export default function Review() {
     return (
         <>
             <section className="background-body pt-80 pb-50">

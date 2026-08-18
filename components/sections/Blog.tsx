@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import Link from "next/link"
 import { swiperGroup3 } from '@/util/swiperOptions'
 
-export default function Blog1() {
+export default function Blog() {
 	return (
 		<>
 

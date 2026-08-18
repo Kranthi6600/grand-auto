@@ -1,7 +1,7 @@
 
 import Link from "next/link"
 
-export default function Categories1() {
+export default function Categories() {
 	return (
 		<>
 

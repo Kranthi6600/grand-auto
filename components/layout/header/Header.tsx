@@ -5,7 +5,7 @@ const ThemeSwitch = dynamic(() => import("@/components/elements/ThemeSwitch"), {
 });
 import Link from "next/link";
 
-export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handleOffcanvas, isOffcanvas }: any) {
+export default function Header({ scroll, isMobileMenu, handleMobileMenu, handleOffcanvas, isOffcanvas }: any) {
     return (
         <>
             <header className={`header sticky-bar header-home-3 border-0 ${scroll ? "stick" : ""}`}>

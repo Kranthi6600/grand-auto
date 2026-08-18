@@ -1,6 +1,6 @@
 
 
-export default function Cta7() {
+export default function CtaBanner() {
 	return (
 		<>
 

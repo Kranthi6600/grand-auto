@@ -1,7 +1,7 @@
 
 import Link from "next/link"
 
-export default function CarsListing2() {
+export default function CarsListing() {
 	return (
 		<>
 

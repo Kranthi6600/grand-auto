@@ -1,7 +1,7 @@
 import CounterUp from '../elements/CounterUp'
 
 
-export default function Static1() {
+export default function Static() {
 	return (
 		<>
 

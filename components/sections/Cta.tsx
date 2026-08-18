@@ -1,7 +1,7 @@
 
 import Link from "next/link"
 
-export default function Cta6() {
+export default function Cta() {
 	return (
 		<>
 

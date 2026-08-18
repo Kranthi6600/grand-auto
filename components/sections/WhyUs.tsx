@@ -1,6 +1,6 @@
 
 
-export default function WhyUs1({cls}:any) {
+export default function WhyUs({cls}:any) {
 	return (
 		<>
 

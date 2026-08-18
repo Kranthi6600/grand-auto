@@ -1,7 +1,7 @@
 
 import Marquee from 'react-fast-marquee'
 
-export default function Brand2({ noBg }: any) {
+export default function Brand({ noBg }: any) {
 	return (
 		<>
 

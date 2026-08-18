@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-export default function CarCard1({ car }: any) {
+export default function CarCard({ car }: any) {
 	return (
 		<>
 			<div className="card-journey-small background-card hover-up">

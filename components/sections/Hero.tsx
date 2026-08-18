@@ -1,6 +1,6 @@
 
 
-export default function Hero1() {
+export default function Hero() {
 	return (
 		<>
 

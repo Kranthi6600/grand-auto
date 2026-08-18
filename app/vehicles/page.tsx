@@ -1,5 +1,5 @@
 "use client";
-import CarCard1 from "@/components/elements/carcard/CarCard1";
+import CarCard from "@/components/elements/carcard/CarCard";
 import HeroSearch from "@/components/elements/HeroSearch";
 import SortCarsFilter from "@/components/elements/SortCarsFilter";
 import ByAmenities from "@/components/Filter/ByAmenities";
@@ -85,7 +85,7 @@ export default function CarsList1() {
                                         <div className="row">
                                             {paginatedCars.map((car) => (
                                                 <div className="col-lg-4 col-md-6 wow fadeInUp" key={car.id}>
-                                                    <CarCard1 car={car} />
+                                                    <CarCard car={car} />
                                                 </div>
                                             ))}
                                         </div>

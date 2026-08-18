@@ -2,7 +2,7 @@
 import Link from "next/link"
 import HeroSearch from '../elements/HeroSearch'
 
-export default function Search1() {
+export default function Search() {
 	return (
 		<>
 
