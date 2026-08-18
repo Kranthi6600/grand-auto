@@ -12,7 +12,7 @@ export default function DealerListing() {
 					<div className="page-header pt-30 background-body">
 						<div className="custom-container position-relative mx-auto">
 							<div className="bg-overlay rounded-12 overflow-hidden">
-								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner7.png" alt="Carento" />
+								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner7.png" alt="Grand Auto" />
 							</div>
 							<div className="container position-absolute z-1 top-50 start-50 translate-middle">
 								<h2 className="text-white">Dealer Listing</h2>
@@ -21,7 +21,7 @@ export default function DealerListing() {
 							<div className="background-body position-absolute z-1 top-100 start-50 translate-middle px-3 py-2 rounded-12 border d-flex gap-3 d-none">
 								<Link href="/" className="neutral-700 text-md-medium">Home</Link>
 								<span>
-									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
 								</span>
 								<Link href="#" className="neutral-1000 text-md-bold" />
 							</div>
@@ -37,7 +37,7 @@ export default function DealerListing() {
 								</div>
 								<div className="col-md-4">
 									<div className="d-flex justify-content-end mt-md-0 mt-4">
-										<Link className="btn btn-primary rounded-3" href="/cars-list-1">
+										<Link className="btn btn-primary rounded-3" href="/vehicles">
 											Become a renter
 											<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -51,7 +51,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-1.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-1.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -60,7 +60,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">123 Kingsway Strandeif, Manchester, M19 2XS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -71,7 +71,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-2.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-2.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -80,7 +80,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">45 Solihull Road, Birmingham, B91 2DA</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -91,7 +91,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-3.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-3.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -100,7 +100,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">78 High Street Nomawal, London, E1 6RL</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -111,7 +111,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-4.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-4.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -121,7 +121,7 @@ export default function DealerListing() {
 													Glasgow, G1 3HL</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -132,7 +132,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-5.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-5.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -141,7 +141,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">230 block 90 Kirkstall Road, Leeds, LS3 1HS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -152,7 +152,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-6.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-6.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -162,7 +162,7 @@ export default function DealerListing() {
 													Edinburgh, EH2 4AD</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -173,7 +173,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-7.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-7.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -183,7 +183,7 @@ export default function DealerListing() {
 													Bristol, BS8 4AB</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -194,7 +194,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-8.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-8.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -204,7 +204,7 @@ export default function DealerListing() {
 													Liverpool, L1 9BX</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -215,7 +215,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-9.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-9.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -224,7 +224,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">Block 123 / 90 Kirkstall Road, Leeds, LS3 1HS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -235,7 +235,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-10.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-10.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -244,7 +244,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">45 Solihull Road, Birmingham, B91 2DA</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -255,7 +255,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-11.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-11.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -264,7 +264,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">123 Kingsway Strandeif, Manchester, M19 2XS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -275,7 +275,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-12.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-12.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -284,7 +284,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">45 Solihull Road, Birmingham, B91 2DA</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -295,7 +295,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-13.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-13.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -304,7 +304,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">123 Kingsway Strandeif, Manchester, M19 2XS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -315,7 +315,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-2.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-2.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -325,7 +325,7 @@ export default function DealerListing() {
 													Bristol, BS8 4AB</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -336,7 +336,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealer-listing/icon-4.svg" alt="Carento" />
+												<img src="/assets/imgs/dealer/dealers/icon-4.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -345,7 +345,7 @@ export default function DealerListing() {
 												<p className="text-md-medium neutral-500">123 Kingsway Strandeif, Manchester, M19 2XS</p>
 											</div>
 											<div className="card-method-contact2">
-												<Link className="email text-xs-bold" href="/cars-list-1">
+												<Link className="email text-xs-bold" href="/vehicles">
 													180 Vehicles
 												</Link>
 											</div>
@@ -412,18 +412,18 @@ export default function DealerListing() {
 										<div className="d-flex flex-column gap-4">
 											<div className="d-flex gap-4">
 												<div className="position-relative">
-													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-1.png" alt="Carento" />
+													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-1.png" alt="Grand Auto" />
 												</div>
 												<div className="mt-auto">
-													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-2.png" alt="Carento" />
+													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-2.png" alt="Grand Auto" />
 												</div>
 											</div>
 											<div className="d-flex gap-4">
 												<div className="position-relative">
-													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-3.png" alt="Carento" />
+													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-3.png" alt="Grand Auto" />
 												</div>
 												<div className="position-relative">
-													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-4.png" alt="Carento" />
+													<img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-4.png" alt="Grand Auto" />
 												</div>
 											</div>
 										</div>

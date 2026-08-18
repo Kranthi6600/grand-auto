@@ -28,7 +28,7 @@ export default function CarsDetails2() {
                                     </span>
                                 </li>
                                 <li>
-                                    <Link href="/cars-list-1">Cars Rental</Link>
+                                    <Link href="/vehicles">Cars Rental</Link>
                                     <span className="arrow-right">
                                         <svg width={7} height={12} viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1 11L6 6L1 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -121,7 +121,7 @@ export default function CarsDetails2() {
                                                         </Link>
                                                         <a className="btn btn-white-md popup-youtube" onClick={() => setOpen(true)}>
                                                             {" "}
-                                                            <img src="/assets/imgs/page/activities/video.svg" alt="Carento" />
+                                                            <img src="/assets/imgs/page/activities/video.svg" alt="Grand Auto" />
                                                             Video Clips
                                                         </a>
                                                     </div>
@@ -158,7 +158,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/km.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/km.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">56,500</p>
@@ -168,7 +168,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/diesel.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/diesel.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">Diesel</p>
@@ -178,7 +178,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/auto.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/auto.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">Automatic</p>
@@ -188,7 +188,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/seat.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/seat.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">7 seats</p>
@@ -198,7 +198,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/bag.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/bag.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">3 Large bags</p>
@@ -208,7 +208,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/suv.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/suv.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">SUVs</p>
@@ -218,7 +218,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/door.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/door.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">4 Doors</p>
@@ -228,7 +228,7 @@ export default function CarsDetails2() {
                                             <div className="item-feature-car w-md-25">
                                                 <div className="item-feature-car-inner">
                                                     <div className="feature-image">
-                                                        <img src="/assets/imgs/page/car/lit.svg" alt="Carento" />
+                                                        <img src="/assets/imgs/page/car/lit.svg" alt="Grand Auto" />
                                                     </div>
                                                     <div className="feature-info">
                                                         <p className="text-md-medium neutral-1000">2.5L</p>
@@ -831,7 +831,7 @@ export default function CarsDetails2() {
                                             <div className="box-agent-support border-bottom pb-3 mb-3">
                                                 <div className="card-author">
                                                     <div className="me-2">
-                                                        <img src="/assets/imgs/template/icons/car-1.png" alt="Carento" />
+                                                        <img src="/assets/imgs/template/icons/car-1.png" alt="Grand Auto" />
                                                     </div>
                                                     <div className="card-author-info">
                                                         <p className="text-lg-bold neutral-1000">Emily Rose</p>
@@ -872,74 +872,74 @@ export default function CarsDetails2() {
                                     <ul className="carouselTicker__list">
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                     </ul>

@@ -12,7 +12,7 @@ export default function DealerDetails() {
 					<div className="page-header pt-30 background-body">
 						<div className="custom-container position-relative mx-auto">
 							<div className="bg-overlay rounded-12 overflow-hidden">
-								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner8.png" alt="Carento" />
+								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner8.png" alt="Grand Auto" />
 							</div>
 							<div className="container position-absolute z-1 top-50 start-50 translate-middle">
 								<h2 className="text-white">Peugeot Sheffield</h2>
@@ -21,7 +21,7 @@ export default function DealerDetails() {
 							<div className="background-body position-absolute z-1 top-100 start-50 translate-middle px-3 py-2 rounded-12 border d-flex gap-3 d-none">
 								<Link href="/" className="neutral-700 text-md-medium">Home</Link>
 								<span>
-									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
 								</span>
 								<Link href="#" className="neutral-1000 text-md-bold" />
 							</div>
@@ -44,7 +44,7 @@ export default function DealerDetails() {
 												<div className="card-contact border-0 border-bottom rounded-0 d-flex">
 													<div className="card-image me-3">
 														<div className="position-relative">
-															<img src="/assets/imgs/dealer/dealer-listing/icon-9.svg" alt="Carento" />
+															<img src="/assets/imgs/dealer/dealers/icon-9.svg" alt="Grand Auto" />
 														</div>
 													</div>
 													<div className="card-info">
@@ -62,11 +62,11 @@ export default function DealerDetails() {
 													<p>Whether you're a first-time visitor or a seasoned Las Vegas aficionado, The High Roller promises an unparalleled experience that will leave you in awe. With its climate-controlled cabins and immersive audio commentary, this attraction provides a unique opportunity to see Las Vegas from a whole new perspective, while learning about its rich history and famous landmarks along the way.</p>
 													<div className="row g-3 mt-1">
 														<div className="col-md-6">
-															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-1.png" alt="Carento" />
+															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-1.png" alt="Grand Auto" />
 														</div>
 														<div className="col-md-6 d-flex align-items-center justify-content-between flex-column gap-3">
-															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-2.png" alt="Carento" />
-															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-3.png" alt="Carento" />
+															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-2.png" alt="Grand Auto" />
+															<img className="rounded-1" src="/assets/imgs/dealer/dealer-details/img-3.png" alt="Grand Auto" />
 														</div>
 													</div>
 												</div>
@@ -181,7 +181,7 @@ export default function DealerDetails() {
 											<div className="col-lg-3 col-md-6">
 												<div className="card-journey-small background-card hover-up">
 													<div className="card-image">
-														<img src="/assets/imgs/cars-listing/cars-listing-6/car-6.png" alt="Carento" />
+														<img src="/assets/imgs/cars-listing/cars-listing-6/car-6.png" alt="Grand Auto" />
 													</div>
 													<div className="card-info p-4 pt-30">
 														<div className="card-rating">
@@ -215,7 +215,7 @@ export default function DealerDetails() {
 											<div className="col-lg-3 col-md-6">
 												<div className="card-journey-small background-card hover-up">
 													<div className="card-image">
-														<img src="/assets/imgs/cars-listing/cars-listing-6/car-5.png" alt="Carento" />
+														<img src="/assets/imgs/cars-listing/cars-listing-6/car-5.png" alt="Grand Auto" />
 													</div>
 													<div className="card-info p-4 pt-30">
 														<div className="card-rating">
@@ -249,7 +249,7 @@ export default function DealerDetails() {
 											<div className="col-lg-3 col-md-6">
 												<div className="card-journey-small background-card hover-up">
 													<div className="card-image">
-														<img src="/assets/imgs/cars-listing/cars-listing-6/car-4.png" alt="Carento" />
+														<img src="/assets/imgs/cars-listing/cars-listing-6/car-4.png" alt="Grand Auto" />
 													</div>
 													<div className="card-info p-4 pt-30">
 														<div className="card-rating">
@@ -283,7 +283,7 @@ export default function DealerDetails() {
 											<div className="col-lg-3 col-md-6">
 												<div className="card-journey-small background-card hover-up">
 													<div className="card-image">
-														<img src="/assets/imgs/cars-listing/cars-listing-6/car-3.png" alt="Carento" />
+														<img src="/assets/imgs/cars-listing/cars-listing-6/car-3.png" alt="Grand Auto" />
 													</div>
 													<div className="card-info p-4 pt-30">
 														<div className="card-rating">
@@ -356,7 +356,7 @@ export default function DealerDetails() {
 														<span className="text-sm-medium neutral-1000">Clear</span>
 													</Link>
 													<Link href="#" className="btn btn-primary px-3 py-2">
-														<img src="/assets/imgs/template/icons/user.svg" alt="Carento" />
+														<img src="/assets/imgs/template/icons/user.svg" alt="Grand Auto" />
 														Apply
 													</Link>
 												</div>
@@ -483,27 +483,27 @@ export default function DealerDetails() {
 													<ul className="list-filter-checkbox">
 														<li>
 															<label className="cb-container">
-																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /></span><span className="checkmark" />
+																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /></span><span className="checkmark" />
 															</label>
 														</li>
 														<li>
 															<label className="cb-container">
-																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /></span><span className="checkmark" />
+																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /></span><span className="checkmark" />
 															</label>
 														</li>
 														<li>
 															<label className="cb-container">
-																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /></span><span className="checkmark" />
+																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /></span><span className="checkmark" />
 															</label>
 														</li>
 														<li>
 															<label className="cb-container">
-																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /></span><span className="checkmark" />
+																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /></span><span className="checkmark" />
 															</label>
 														</li>
 														<li>
 															<label className="cb-container">
-																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Carento" /></span><span className="checkmark" />
+																<input type="checkbox" /><span className="text-sm-medium"> <img src="/assets/imgs/template/icons/star-yellow.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /><img src="/assets/imgs/template/icons/star-grey.svg" alt="Grand Auto" /></span><span className="checkmark" />
 															</label>
 														</li>
 													</ul>
@@ -569,74 +569,74 @@ export default function DealerDetails() {
 									<ul className="carouselTicker__list">
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 										<li className="carouselTicker__item">
 											<div className="item-brand">
-												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
 											</div>
 										</li>
 									</ul>

@@ -21,7 +21,7 @@ export default function Faqs() {
 								<div className="background-body px-3 py-2 rounded-12 border d-flex gap-3 d-inline-flex">
 									<Link href="/" className="neutral-700 text-md-medium">Home</Link>
 									<span>
-										<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+										<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
 									</span>
 									<Link href="#" className="neutral-1000 text-md-bold">FAQs</Link>
 								</div>
@@ -144,7 +144,7 @@ export default function Faqs() {
 								<div className="col-lg-3 col-sm-6">
 									<div className="card-contact">
 										<div className="card-image">
-											<div className="card-icon background-card border rounded-2 border-dark"><img className="invert" src="/assets/imgs/page/pages/cancel.png" alt="carento" /></div>
+											<div className="card-icon background-card border rounded-2 border-dark"><img className="invert" src="/assets/imgs/page/pages/cancel.png" alt="Grand Auto" /></div>
 										</div>
 										<div className="card-info">
 											<div className="card-title">
@@ -165,7 +165,7 @@ export default function Faqs() {
 								<div className="col-lg-3 col-sm-6">
 									<div className="card-contact">
 										<div className="card-image">
-											<div className="card-icon background-card border rounded-2 border-dark"><img className="invert" src="/assets/imgs/page/pages/tech.png" alt="carento" /></div>
+											<div className="card-icon background-card border rounded-2 border-dark"><img className="invert" src="/assets/imgs/page/pages/tech.png" alt="Grand Auto" /></div>
 										</div>
 										<div className="card-info">
 											<div className="card-title">

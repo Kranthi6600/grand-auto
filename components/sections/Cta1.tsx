@@ -14,7 +14,7 @@ export default function Cta1() {
                             <div className="card-video">
                                 <div className="card-image">
                                     <a className="btn btn-play popup-youtube" onClick={() => setOpen(true)} />
-                                    <img src="/assets/imgs/cta/cta-1/video.png" alt="Carento" />
+                                    <img src="/assets/imgs/cta/cta-1/video.png" alt="Grand Auto" />
                                 </div>
                             </div>
                         </div>

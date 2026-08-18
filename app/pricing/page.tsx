@@ -22,7 +22,7 @@ export default function Pricing() {
 					<div className="page-header pt-30 background-body">
 						<div className="custom-container position-relative mx-auto">
 							<div className="bg-overlay rounded-12 overflow-hidden">
-								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner2.png" alt="Carento" />
+								<img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner2.png" alt="Grand Auto" />
 							</div>
 							<div className="container position-absolute z-1 top-50 start-50 translate-middle">
 								<h2 className="text-white">Pricing</h2>
@@ -31,7 +31,7 @@ export default function Pricing() {
 							<div className="background-body position-absolute z-1 top-100 start-50 translate-middle px-3 py-2 rounded-12 border d-flex gap-3 d-none">
 								<Link href="/" className="neutral-700 text-md-medium">Home</Link>
 								<span>
-									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+									<img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
 								</span>
 								<Link href="#" className="neutral-1000 text-md-bold" />
 							</div>
@@ -67,27 +67,27 @@ export default function Pricing() {
 										<p className="text-sm-medium neutral-1000">For most businesses that want to optimize web queries</p>
 										<ul className="list-unstyled mb-0 py-4 border-top mt-4">
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Access to standard vehicles</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">24/7 customer support</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Basic insurance coverage</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2 text-400">Online booking</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2 text-400">Standard roadside assistance</p>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2 text-400">One free vehicle per month</p>
 											</li>
 										</ul>
@@ -110,27 +110,27 @@ export default function Pricing() {
 										<p className="text-sm-medium neutral-1000">For most businesses that want to optimize web queries</p>
 										<ul className="list-unstyled mb-0 py-4 border-top mt-4">
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">All Basic Plan features</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Access to premium vehicles</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Flexible rental terms</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">GPS included</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Free additional driver</p>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Unlimited vehicle swaps</p>
 											</li>
 										</ul>
@@ -153,27 +153,27 @@ export default function Pricing() {
 										<p className="text-sm-medium neutral-1000">For most businesses that want to optimize web queries</p>
 										<ul className="list-unstyled mb-0 py-4 border-top mt-4">
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">All Standard Plan features</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Luxury vehicle options</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Complimentary upgrades</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Enhanced insurance coverage</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Free airport pickup, drop-off</p>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Exclusive deals and offers</p>
 											</li>
 										</ul>
@@ -196,27 +196,27 @@ export default function Pricing() {
 										<p className="text-sm-medium neutral-1000">For most businesses that want to optimize web queries</p>
 										<ul className="list-unstyled mb-0 py-4 border-top mt-4">
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">All Premium Plan features</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">VIP transfer service</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Personal concierge</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Unlimited mileage</p>
 											</li>
 											<li className="d-flex align-items-center mb-3">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">Luxury vehicle upgrades</p>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="carento" />
+												<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Grand Auto" />
 												<p className="text-sm-medium neutral-1000 m-0 ms-2">24/7 account manager</p>
 											</li>
 										</ul>
@@ -502,17 +502,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">News</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money </Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -525,17 +525,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -548,17 +548,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Discovery</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -571,17 +571,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">News</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money </Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -594,17 +594,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -617,17 +617,17 @@ export default function Pricing() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Discovery</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>

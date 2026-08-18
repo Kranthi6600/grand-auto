@@ -14,7 +14,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 			<div className={`mobile-header-active mobile-header-wrapper-style perfect-scrollbar button-bg-2 ${isMobileMenu ? 'sidebar-visible' : ''}`}>
 				<PerfectScrollbar className="mobile-header-wrapper-inner">
 					<div className="mobile-header-logo">
-						<Link className="d-flex" href="/"><img className="light-mode" alt="Carento" src="/assets/imgs/template/logo-d.svg" /><img className="dark-mode" alt="Carento" src="/assets/imgs/template/logo-w.svg" /></Link>
+						<Link className="d-flex" href="/"><img alt="Grand Auto" src="/assets/logo.webp" style={{ maxHeight: "40px", width: "auto" }} /></Link>
 						<div className="burger-icon burger-icon-white" onClick={handleMobileMenu} />
 					</div>
 					<div className="mobile-header-content-area">
@@ -23,10 +23,10 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 								<nav>
 									<ul className="mobile-menu font-heading">
 										<li><Link href="/">Home</Link></li>
-										<li><Link href="/cars-list-1">Vehicles</Link></li>
-										<li><Link href="/dealer-listing">Dealers</Link></li>
-										<li><Link href="/shop-list">Shop</Link></li>
-										<li><Link href="/blog-grid">News</Link></li>
+										<li><Link href="/vehicles">Vehicles</Link></li>
+										<li><Link href="/dealers">Dealers</Link></li>
+										<li><Link href="/shop">Shop</Link></li>
+										<li><Link href="/blog">Blog</Link></li>
 										<li className={`has-children ${isAccordion === 5 ? "active" : ""}`}>
 											<span className="menu-expand" onClick={() => handleAccordion(5)}>
 												<i className="arrow-small-down"></i>

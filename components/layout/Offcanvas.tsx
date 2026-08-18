@@ -8,8 +8,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                     <div className="sidebar-canvas-head">
                         <div className="sidebar-canvas-logo">
                             <Link className="d-flex" href="/">
-                                <img className="light-mode" alt="Carento" src="/assets/imgs/template/logo-d.svg" />
-                                <img className="dark-mode" alt="Carento" src="/assets/imgs/template/logo-w.svg" />
+                                <img alt="Grand Auto" src="/assets/logo.webp" style={{ maxHeight: "40px", width: "auto" }} />
                             </Link>
                         </div>
                         <div className="sidebar-canvas-lang">
@@ -63,7 +62,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                             </div>
                             <a className="close-canvas" onClick={handleOffcanvas}>
                                 {" "}
-                                <img alt="Carento" src="/assets/imgs/template/icons/close.png" />
+                                <img alt="Grand Auto" src="/assets/imgs/template/icons/close.png" />
                             </a>
                         </div>
                     </div>
@@ -71,7 +70,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                         <div className="box-author-profile">
                             <div className="card-author">
                                 <div className="card-image">
-                                    <img src="/assets/imgs/page/homepage1/author2.png" alt="Carento" />
+                                    <img src="/assets/imgs/page/homepage1/author2.png" alt="Grand Auto" />
                                 </div>
                                 <div className="card-info">
                                     <p className="text-md-bold neutral-1000">Howdy, Steven</p>
@@ -88,7 +87,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Carento" />
+                                            <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -101,7 +100,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Carento" />
+                                            <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -114,7 +113,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Carento" />
+                                            <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -127,7 +126,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Carento" />
+                                            <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -140,7 +139,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Carento" />
+                                            <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -160,7 +159,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                     Manchester, Kentucky 39495
                                 </p>
                                 <p className="hour-work-2 text-md-medium neutral-1000">Hours: 8:00 - 17:00, Mon - Sat</p>
-                                <p className="email-2 text-md-medium neutral-1000">support@carento.com</p>
+                                <p className="email-2 text-md-medium neutral-1000">support@grandauto.com</p>
                             </div>
                         </div>
                     </div>

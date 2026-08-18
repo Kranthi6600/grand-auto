@@ -14,7 +14,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
                         <div className="header-left">
                             <div className="header-logo">
                                 <Link className="d-flex" href="/">
-                                    <img alt="Carento" src="/assets/logo.webp" style={{ maxHeight: "40px", width: "auto" }} />
+                                    <img alt="Grand Auto" src="/assets/logo.webp" style={{ maxHeight: "40px", width: "auto" }} />
                                 </Link>
                             </div>
                             <div className="header-nav">
@@ -24,16 +24,16 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
                                             <Link href="/">Home</Link>
                                         </li>
                                         <li>
-                                            <Link href="/cars-list-1">Vehicles</Link>
+                                            <Link href="/vehicles">Vehicles</Link>
                                         </li>
                                         <li>
-                                            <Link href="/dealer-listing">Dealers</Link>
+                                            <Link href="/dealers">Dealers</Link>
                                         </li>
                                         <li>
-                                            <Link href="/shop-list">Shop</Link>
+                                            <Link href="/shop">Shop</Link>
                                         </li>
                                         <li>
-                                            <Link href="/blog-grid">News</Link>
+                                            <Link href="/blog">Blog</Link>
                                         </li>
                                         <li className="has-children">
                                             <Link href="#">More</Link>
@@ -89,7 +89,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
                                     </Link>
                                 </div>
                                 <div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
-                                    <img src="/assets/imgs/template/icons/menu.svg" alt="Carento" />
+                                    <img src="/assets/imgs/template/icons/menu.svg" alt="Grand Auto" />
                                 </div>
                                 <div className="burger-icon burger-icon-white" onClick={handleMobileMenu}>
                                     <span className="burger-icon-top" />

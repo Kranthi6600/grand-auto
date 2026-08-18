@@ -42,14 +42,14 @@ export default function Login() {
 											<p className="text-md-medium neutral-500 text-center">Or connect with your social account</p>
 											<div className="box-button-logins">
 												<Link className="btn btn-login btn-google mr-10" href="#">
-													<img src="/assets/imgs/template/popup/google.svg" alt="Carento" />
+													<img src="/assets/imgs/template/popup/google.svg" alt="Grand Auto" />
 													<span className="text-sm-bold">Sign up with Google</span>
 												</Link>
 												<Link className="btn btn-login mr-10" href="#">
-													<img src="/assets/imgs/template/popup/facebook.svg" alt="Carento" />
+													<img src="/assets/imgs/template/popup/facebook.svg" alt="Grand Auto" />
 												</Link>
 												<Link className="btn btn-login" href="#">
-													<img src="/assets/imgs/template/popup/apple.svg" alt="Carento" />
+													<img src="/assets/imgs/template/popup/apple.svg" alt="Grand Auto" />
 												</Link>
 											</div>
 											<p className="text-sm-medium neutral-500 text-center mt-70">Don’t have an account? <Link className="neutral-1000" href="/register">Register Here !</Link></p>

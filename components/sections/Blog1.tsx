@@ -38,11 +38,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">News</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money
@@ -50,7 +50,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -63,11 +63,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Trend</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury
@@ -75,7 +75,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">Steven Job</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -88,11 +88,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Discovery</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some
@@ -100,7 +100,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">David Jame</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -113,11 +113,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">News</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money
@@ -125,7 +125,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -138,11 +138,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Trend</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury
@@ -150,7 +150,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">Steven Job</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -163,11 +163,11 @@ export default function Blog1() {
 										<div className="card-news background-card hover-up">
 											<div className="card-image">
 												<Link href="/blog-details">
-													<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+													<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
 												</Link>
 											</div>
 											<div className="card-info">
-												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+												<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">Discovery</Link>
 												<div className="card-meta"><span className="post-date neutral-1000">18 Sep
 													2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
 												<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some
@@ -175,7 +175,7 @@ export default function Blog1() {
 												<div className="card-program">
 													<div className="endtime">
 														<div className="card-author">
-															<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+															<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
 															<p className="text-sm-bold neutral-1000">David Jame</p>
 														</div>
 														<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>

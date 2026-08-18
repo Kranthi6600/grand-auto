@@ -20,7 +20,7 @@ export default function AboutUs() {
                     <div className="page-header pt-30 background-body">
                         <div className="custom-container position-relative mx-auto">
                             <div className="bg-overlay rounded-12 overflow-hidden">
-                                <img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner.png" alt="Carento" />
+                                <img className="w-100 h-100 img-banner" src="/assets/imgs/page-header/banner.png" alt="Grand Auto" />
                             </div>
                             <div className="container position-absolute z-1 top-50 start-50 translate-middle">
                                 <h2 className="text-white">About Us</h2>
@@ -31,7 +31,7 @@ export default function AboutUs() {
                                     Home
                                 </Link>
                                 <span>
-                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
                                 </span>
                                 <Link href="#" className="neutral-1000 text-md-bold">
                                     About Us
@@ -51,13 +51,13 @@ export default function AboutUs() {
                                     </h3>
                                 </div>
                                 <div className="col-lg-7 offset-lg-1">
-                                    <p className="text-lg-medium neutral-500">Welcome to Carento, your trusted partner in car rentals. Since our founding, we have been committed to providing our customers with a seamless and reliable car rental experience. Whether you're planning a business trip, a family vacation, or just need a vehicle for everyday use, we offer a wide range of vehicles to meet your needs.</p>
+                                    <p className="text-lg-medium neutral-500">Welcome to Grand Auto, your trusted partner in car rentals. Since our founding, we have been committed to providing our customers with a seamless and reliable car rental experience. Whether you're planning a business trip, a family vacation, or just need a vehicle for everyday use, we offer a wide range of vehicles to meet your needs.</p>
                                 </div>
                             </div>
                             <div className="row g-4">
                                 <div className="col-lg-4 col-md-6">
                                     <div className="box-image rounded-12 position-relative overflow-hidden">
-                                        <img className="rounded-12" src="/assets/imgs/section-1/img-1.png" alt="Carento" />
+                                        <img className="rounded-12" src="/assets/imgs/section-1/img-1.png" alt="Grand Auto" />
                                         <div className="box-tag bg-white p-3 d-flex position-absolute bottom-0 end-0 rounded-12 m-3">
                                             <span className="text-dark fs-72 me-3">86</span>
                                             <h6>
@@ -69,7 +69,7 @@ export default function AboutUs() {
                                 </div>
                                 <div className="col-lg-4 col-md-6">
                                     <div className="box-image rounded-12 position-relative overflow-hidden">
-                                        <img className="rounded-12" src="/assets/imgs/section-1/img-2.png" alt="Carento" />
+                                        <img className="rounded-12" src="/assets/imgs/section-1/img-2.png" alt="Grand Auto" />
                                     </div>
                                 </div>
                                 <div className="col-lg-4 col-12">
@@ -81,7 +81,7 @@ export default function AboutUs() {
                                                 Business
                                             </h4>
                                         </div>
-                                        <img className="rounded-12" src="/assets/imgs/section-1/img-3.png" alt="Carento" />
+                                        <img className="rounded-12" src="/assets/imgs/section-1/img-3.png" alt="Grand Auto" />
                                     </div>
                                 </div>
                             </div>
@@ -196,7 +196,7 @@ export default function AboutUs() {
                                     <div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
                                         <div className="card-image">
                                             <Link href="/dealer-details">
-                                                <img src="/assets/imgs/team/team-1/portrait-1.png" alt="Carento" />
+                                                <img src="/assets/imgs/team/team-1/portrait-1.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="card-info p-4">
@@ -210,20 +210,20 @@ export default function AboutUs() {
                                                 <div className="endtime">
                                                     <div className="card-author d-flex align-items-center gap-2">
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
-                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Carento" />
+                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                             </div>
@@ -234,7 +234,7 @@ export default function AboutUs() {
                                     <div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
                                         <div className="card-image">
                                             <Link href="/dealer-details">
-                                                <img src="/assets/imgs/team/team-1/portrait-2.png" alt="Carento" />
+                                                <img src="/assets/imgs/team/team-1/portrait-2.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="card-info p-4">
@@ -248,20 +248,20 @@ export default function AboutUs() {
                                                 <div className="endtime">
                                                     <div className="card-author d-flex align-items-center gap-2">
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
-                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Carento" />
+                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                             </div>
@@ -272,7 +272,7 @@ export default function AboutUs() {
                                     <div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
                                         <div className="card-image">
                                             <Link href="/dealer-details">
-                                                <img src="/assets/imgs/team/team-1/portrait-3.png" alt="Carento" />
+                                                <img src="/assets/imgs/team/team-1/portrait-3.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="card-info p-4">
@@ -286,20 +286,20 @@ export default function AboutUs() {
                                                 <div className="endtime">
                                                     <div className="card-author d-flex align-items-center gap-2">
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
-                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Carento" />
+                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                             </div>
@@ -310,7 +310,7 @@ export default function AboutUs() {
                                     <div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
                                         <div className="card-image">
                                             <Link href="/dealer-details">
-                                                <img src="/assets/imgs/team/team-1/portrait-4.png" alt="Carento" />
+                                                <img src="/assets/imgs/team/team-1/portrait-4.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="card-info p-4">
@@ -324,20 +324,20 @@ export default function AboutUs() {
                                                 <div className="endtime">
                                                     <div className="card-author d-flex align-items-center gap-2">
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-1.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-2.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-3.svg" alt="Grand Auto" />
                                                         </Link>
                                                         <Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up">
-                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Carento" />
+                                                            <img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
-                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Carento" />
+                                                        <img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                             </div>
@@ -381,18 +381,18 @@ export default function AboutUs() {
                                         <div className="d-flex flex-column gap-4">
                                             <div className="d-flex gap-4">
                                                 <div className="position-relative">
-                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-1.png" alt="Carento" />
+                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="mt-auto">
-                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-2.png" alt="Carento" />
+                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-2.png" alt="Grand Auto" />
                                                 </div>
                                             </div>
                                             <div className="d-flex gap-4">
                                                 <div className="position-relative">
-                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-3.png" alt="Carento" />
+                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-3.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="position-relative">
-                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-4.png" alt="Carento" />
+                                                    <img className="bdrd8 w-100" src="/assets/imgs/cta/cta-8/img-4.png" alt="Grand Auto" />
                                                 </div>
                                             </div>
                                         </div>
@@ -482,17 +482,17 @@ export default function AboutUs() {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="card-image d-inline-block position-relative mb-100">
-                                            <img className="rounded-12" src="/assets/imgs/cta/cta-9/img-1.png" alt="Carento" />
+                                            <img className="rounded-12" src="/assets/imgs/cta/cta-9/img-1.png" alt="Grand Auto" />
                                             <a className="btn btn-play popup-youtube position-absolute top-50 start-50 translate-middle" onClick={() => setOpen(true)} />
-                                            <img className="position-absolute top-100 start-100 translate-middle rounded-12 d-none d-md-block" src="/assets/imgs/cta/cta-9/img-2.png" alt="Carento" />
+                                            <img className="position-absolute top-100 start-100 translate-middle rounded-12 d-none d-md-block" src="/assets/imgs/cta/cta-9/img-2.png" alt="Grand Auto" />
                                         </div>
                                     </div>
                                     <div className="col-lg-6 ps-lg-5">
                                         <Link className="btn btn-signin bg-2 text-dark mb-4" href="#">
                                             Our Commitment
                                         </Link>
-                                        <h4 className="mb-4 neutral-1000">Carento offers clear pricing and 24/7 great support.</h4>
-                                        <p className="text-lg-medium neutral-500 mb-4">We are committed to offering transparent pricing with no hidden fees, comprehensive insurance options for peace of mind, and 24/7 customer support to assist you whenever you need it. At Carento, your satisfaction is our top priority.</p>
+                                        <h4 className="mb-4 neutral-1000">Grand Auto offers clear pricing and 24/7 great support.</h4>
+                                        <p className="text-lg-medium neutral-500 mb-4">We are committed to offering transparent pricing with no hidden fees, comprehensive insurance options for peace of mind, and 24/7 customer support to assist you whenever you need it. At Grand Auto, your satisfaction is our top priority.</p>
                                         <div className="row">
                                             <div className="col">
                                                 <ul className="list-ticks-green list-ticks-green-2">
@@ -520,9 +520,9 @@ export default function AboutUs() {
                             <div className="row">
                                 <div className="col-auto mx-auto wow fadeInUp text-center d-flex flex-column align-items-center justify-content-center">
                                     <div className="box-author-testimonials background-100">
-                                        <img src="/assets/imgs/page/homepage1/testimonial.png" alt="Carento" />
-                                        <img src="/assets/imgs/page/homepage1/testimonial2.png" alt="Carento" />
-                                        <img src="/assets/imgs/page/homepage1/testimonial3.png" alt="Carento" />
+                                        <img src="/assets/imgs/page/homepage1/testimonial.png" alt="Grand Auto" />
+                                        <img src="/assets/imgs/page/homepage1/testimonial2.png" alt="Grand Auto" />
+                                        <img src="/assets/imgs/page/homepage1/testimonial3.png" alt="Grand Auto" />
                                         Testimonials
                                     </div>
                                     <h3 className="mt-8 mb-15 neutral-1000">What they say about us?</h3>
@@ -544,7 +544,7 @@ export default function AboutUs() {
                                                         <div className="card-top pt-40 border-0 mb-0">
                                                             <div className="card-author">
                                                                 <div className="card-image">
-                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-1.png" alt="Grand Auto" />
                                                                 </div>
                                                                 <div className="card-info">
                                                                     <p className="text-lg-bold neutral-1000">Sophia Moore</p>
@@ -552,11 +552,11 @@ export default function AboutUs() {
                                                                 </div>
                                                             </div>
                                                             <div className="card-rate">
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -570,7 +570,7 @@ export default function AboutUs() {
                                                         <div className="card-top pt-40 border-0 mb-0">
                                                             <div className="card-author">
                                                                 <div className="card-image">
-                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-2.png" alt="Grand Auto" />
                                                                 </div>
                                                                 <div className="card-info">
                                                                     <p className="text-lg-bold neutral-1000">Atend John</p>
@@ -578,11 +578,11 @@ export default function AboutUs() {
                                                                 </div>
                                                             </div>
                                                             <div className="card-rate">
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -596,7 +596,7 @@ export default function AboutUs() {
                                                         <div className="card-top pt-40 border-0 mb-0">
                                                             <div className="card-author">
                                                                 <div className="card-image">
-                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-3.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-3.png" alt="Grand Auto" />
                                                                 </div>
                                                                 <div className="card-info">
                                                                     <p className="text-lg-bold neutral-1000">Sara Mohamed</p>
@@ -604,11 +604,11 @@ export default function AboutUs() {
                                                                 </div>
                                                             </div>
                                                             <div className="card-rate">
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -622,7 +622,7 @@ export default function AboutUs() {
                                                         <div className="card-top pt-40 border-0 mb-0">
                                                             <div className="card-author">
                                                                 <div className="card-image">
-                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/testimonials/testimonials-1/author-1.png" alt="Grand Auto" />
                                                                 </div>
                                                                 <div className="card-info">
                                                                     <p className="text-lg-bold neutral-1000">Sara Mohamed</p>
@@ -630,11 +630,11 @@ export default function AboutUs() {
                                                                 </div>
                                                             </div>
                                                             <div className="card-rate">
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
-                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Carento" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
+                                                                <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-black.svg" alt="Grand Auto" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -765,11 +765,11 @@ export default function AboutUs() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             News
                                                         </Link>
                                                         <div className="card-meta">
@@ -785,7 +785,7 @@ export default function AboutUs() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Jimmy Dave</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -802,11 +802,11 @@ export default function AboutUs() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Trend
                                                         </Link>
                                                         <div className="card-meta">
@@ -822,7 +822,7 @@ export default function AboutUs() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Steven Job</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -839,11 +839,11 @@ export default function AboutUs() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Discovery
                                                         </Link>
                                                         <div className="card-meta">
@@ -859,7 +859,7 @@ export default function AboutUs() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">David Jame</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -876,11 +876,11 @@ export default function AboutUs() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Trend
                                                         </Link>
                                                         <div className="card-meta">
@@ -896,7 +896,7 @@ export default function AboutUs() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Steven Job</p>
                                                                 </div>
                                                                 <div className="card-button">

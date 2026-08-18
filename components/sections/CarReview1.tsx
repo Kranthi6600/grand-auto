@@ -16,7 +16,7 @@ export default function CarReview1() {
                         </div>
                         <div className="col-md-3 mb-30 wow fadeInUp">
                             <div className="d-flex justify-content-center justify-content-md-end">
-                                <Link className="btn btn-primary" href="/cars-list-1">
+                                <Link className="btn btn-primary" href="/vehicles">
                                     View More
                                     <svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -34,7 +34,7 @@ export default function CarReview1() {
                                         <a className="btn btn-play popup-youtube" onClick={() => setOpen(true)}>
                                             {" "}
                                         </a>
-                                        <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-1.png" alt="Carento" />
+                                        <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-1.png" alt="Grand Auto" />
                                     </div>
                                     <div className="card-info">
                                         <h4 className="text-white">Farewell, BMW M2: will this be the last M car of its kind</h4>
@@ -49,7 +49,7 @@ export default function CarReview1() {
                                             <a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}>
                                                 {" "}
                                             </a>
-                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-2.png" alt="Carento" />
+                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-2.png" alt="Grand Auto" />
                                         </div>
                                         <div className="item-info">
                                             <Link className="heading-6" href="/cars-details-1">
@@ -63,7 +63,7 @@ export default function CarReview1() {
                                             <a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}>
                                                 {" "}
                                             </a>
-                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-3.png" alt="Carento" />
+                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-3.png" alt="Grand Auto" />
                                         </div>
                                         <div className="item-info">
                                             <Link className="heading-6" href="/cars-details-1">
@@ -77,7 +77,7 @@ export default function CarReview1() {
                                             <a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}>
                                                 {" "}
                                             </a>
-                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-4.png" alt="Carento" />
+                                            <img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-4.png" alt="Grand Auto" />
                                         </div>
                                         <div className="item-info">
                                             <Link className="heading-6" href="/cars-details-1">

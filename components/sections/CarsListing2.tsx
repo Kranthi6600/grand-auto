@@ -14,7 +14,7 @@ export default function CarsListing2() {
 						</div>
 						<div className="col-md-4 mt-md-0 mt-4">
 							<div className="d-flex justify-content-end">
-								<Link className="btn btn-primary wow fadeInUp" href="/cars-list-1">
+								<Link className="btn btn-primary wow fadeInUp" href="/vehicles">
 									View More
 									<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -27,8 +27,8 @@ export default function CarsListing2() {
 						<div className="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.1s">
 							<div className="card-journey-small background-card hover-up">
 								<div className="card-image">
-									<Link href="/cars-details-2">
-										<img src="/assets/imgs/cars-listing/cars-listing-2/car-1.png" alt="Carento" />
+									<Link href="/car-details">
+										<img src="/assets/imgs/cars-listing/cars-listing-2/car-1.png" alt="Grand Auto" />
 									</Link>
 								</div>
 								<div className="card-info p-4 pt-30">
@@ -38,7 +38,7 @@ export default function CarsListing2() {
 											<span className="rating text-xs-medium py-1 rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 										</div>
 									</div>
-									<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-2">Volkswagen Golf GTD</Link></div>
+									<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/car-details">Volkswagen Golf GTD</Link></div>
 									<div className="card-program">
 										<div className="card-location">
 											<p className="text-location text-sm-medium neutral-500">Manchester, England</p>
@@ -54,7 +54,7 @@ export default function CarsListing2() {
 												<h6 className="text-lg-bold neutral-1000">$498.25</h6>
 												<p className="text-md-medium neutral-500" />
 											</div>
-											<div className="card-button"><Link className="btn btn-gray" href="/cars-details-2">Book
+											<div className="card-button"><Link className="btn btn-gray" href="/car-details">Book
 												Now</Link></div>
 										</div>
 									</div>
@@ -64,8 +64,8 @@ export default function CarsListing2() {
 						<div className="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.2s">
 							<div className="card-journey-small background-card hover-up">
 								<div className="card-image">
-									<Link href="/cars-details-2">
-										<img src="/assets/imgs/cars-listing/cars-listing-2/car-2.png" alt="Carento" />
+									<Link href="/car-details">
+										<img src="/assets/imgs/cars-listing/cars-listing-2/car-2.png" alt="Grand Auto" />
 									</Link>
 								</div>
 								<div className="card-info p-4 pt-30">
@@ -75,7 +75,7 @@ export default function CarsListing2() {
 											<span className="rating text-xs-medium py-1 rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 										</div>
 									</div>
-									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/cars-details-2">Volvo S60 D4 R-Design</Link></div>
+									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/car-details">Volvo S60 D4 R-Design</Link></div>
 									<div className="card-program">
 										<div className="card-location">
 											<p className="text-location text-sm-medium neutral-500">New South Wales, Australia
@@ -92,7 +92,7 @@ export default function CarsListing2() {
 												<h6 className="text-lg-bold neutral-1000">$498.25</h6>
 												<p className="text-md-medium neutral-500" />
 											</div>
-											<div className="card-button"><Link className="btn btn-gray" href="/cars-details-2">Book
+											<div className="card-button"><Link className="btn btn-gray" href="/car-details">Book
 												Now</Link></div>
 										</div>
 									</div>
@@ -102,8 +102,8 @@ export default function CarsListing2() {
 						<div className="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.3s">
 							<div className="card-journey-small background-card hover-up">
 								<div className="card-image">
-									<Link href="/cars-details-2">
-										<img src="/assets/imgs/cars-listing/cars-listing-2/car-3.png" alt="Carento" />
+									<Link href="/car-details">
+										<img src="/assets/imgs/cars-listing/cars-listing-2/car-3.png" alt="Grand Auto" />
 									</Link>
 								</div>
 								<div className="card-info p-4 pt-30">
@@ -113,7 +113,7 @@ export default function CarsListing2() {
 											<span className="rating text-xs-medium py-1 rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 										</div>
 									</div>
-									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/cars-details-2">Jaguar XE 2.0d R-Sport</Link></div>
+									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/car-details">Jaguar XE 2.0d R-Sport</Link></div>
 									<div className="card-program">
 										<div className="card-location">
 											<p className="text-location text-sm-medium neutral-500">Manchester, England</p>
@@ -129,7 +129,7 @@ export default function CarsListing2() {
 												<h6 className="text-lg-bold neutral-1000">$498.25</h6>
 												<p className="text-md-medium neutral-500" />
 											</div>
-											<div className="card-button"><Link className="btn btn-gray" href="/cars-details-2">Book
+											<div className="card-button"><Link className="btn btn-gray" href="/car-details">Book
 												Now</Link></div>
 										</div>
 									</div>
@@ -139,8 +139,8 @@ export default function CarsListing2() {
 						<div className="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.4s">
 							<div className="card-journey-small background-card hover-up">
 								<div className="card-image">
-									<Link href="/cars-details-2">
-										<img src="/assets/imgs/cars-listing/cars-listing-2/car-4.png" alt="Carento" />
+									<Link href="/car-details">
+										<img src="/assets/imgs/cars-listing/cars-listing-2/car-4.png" alt="Grand Auto" />
 									</Link>
 								</div>
 								<div className="card-info p-4 pt-30">
@@ -150,7 +150,7 @@ export default function CarsListing2() {
 											<span className="rating text-xs-medium py-1 rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 										</div>
 									</div>
-									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/cars-details-2">Lexus IS 300h F Sport</Link></div>
+									<div className="card-title"><Link className="text-lg-bold neutral-1000" href="/car-details">Lexus IS 300h F Sport</Link></div>
 									<div className="card-program">
 										<div className="card-location">
 											<p className="text-location text-sm-medium neutral-500">Manchester, England</p>
@@ -166,7 +166,7 @@ export default function CarsListing2() {
 												<h6 className="text-lg-bold neutral-1000">$498.25</h6>
 												<p className="text-md-medium neutral-500" />
 											</div>
-											<div className="card-button"><Link className="btn btn-gray" href="/cars-details-2">Book
+											<div className="card-button"><Link className="btn btn-gray" href="/car-details">Book
 												Now</Link></div>
 										</div>
 									</div>

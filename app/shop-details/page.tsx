@@ -83,7 +83,7 @@ export default function ShopDetails() {
                                     </span>
                                 </li>
                                 <li>
-                                    <Link href="/shop-list">Cars Parts</Link>
+                                    <Link href="/shop">Cars Parts</Link>
                                     <span className="arrow-right">
                                         <svg width={7} height={12} viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1 11L6 6L1 1" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -104,25 +104,25 @@ export default function ShopDetails() {
                                         <div className="box-banner-activities border rounded-3 overflow-hidden">
                                             <Slider {...settingsMain} asNavFor={nav2 as any} ref={(slider) => setSlider1(slider as any)} className="banner-activities-detail">
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                             </Slider>
                                             <div className="box-button-abs">
                                                 <a className="btn btn-white-md popup-youtube" onClick={() => setOpen(true)}>
                                                     {" "}
-                                                    <img src="/assets/imgs/page/activities/video.svg" alt="Carento" />
+                                                    <img src="/assets/imgs/page/activities/video.svg" alt="Grand Auto" />
                                                     Video Clips
                                                 </a>
                                             </div>
@@ -130,28 +130,28 @@ export default function ShopDetails() {
                                         <div className="slider-thumnail-activities">
                                             <Slider {...settingsThumbs} asNavFor={nav1 as any} ref={(slider) => setSlider2(slider as any)} className="slider-nav-thumbnails-activities-detail shop-thumb-nav">
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Carento" />
+                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Grand Auto" />
                                                 </div>
                                             </Slider>
                                         </div>
@@ -171,7 +171,7 @@ export default function ShopDetails() {
                                                 SKU <span className="text-md-bold neutral-1000 ms-1 text-decoration-underline">LVA-4125</span>{" "}
                                             </Link>
                                             <Link href="#">
-                                                <img src="/assets/imgs/shop/shop-list/stock.png" alt="Carento" />
+                                                <img src="/assets/imgs/shop/shop/stock.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="tour-title-main">
@@ -319,11 +319,11 @@ export default function ShopDetails() {
                                                                 <h6 className="neutral-1000">4.95 / 5</h6>
                                                                 <p className="text-sm-medium neutral-400">(672 reviews)</p>
                                                                 <div className="review-rate">
-                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Carento" />
-                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Carento" />
-                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Carento" />
-                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Carento" />
-                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Carento" />
+                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/page/tour-detail/star.svg" alt="Grand Auto" />
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -414,14 +414,14 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-details/avatar-1.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Sarah Johnson</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                     </div>
                                                                 </div>
                                                                 <div className="rate-review">
-                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                 </div>
                                                             </div>
                                                             <div className="content-review">
@@ -431,14 +431,14 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-details/avatar-2.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Michael Smith</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                     </div>
                                                                 </div>
                                                                 <div className="rate-review">
-                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                 </div>
                                                             </div>
                                                             <div className="content-review">
@@ -448,14 +448,14 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-3.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-details/avatar-3.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Emily Williams</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                     </div>
                                                                 </div>
                                                                 <div className="rate-review">
-                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                    <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" /> <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                 </div>
                                                             </div>
                                                             <div className="content-review">
@@ -533,21 +533,21 @@ export default function ShopDetails() {
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Price</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Service</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -555,21 +555,21 @@ export default function ShopDetails() {
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Safety</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Entertainment</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -577,21 +577,21 @@ export default function ShopDetails() {
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Accessibility</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                                 <div className="box-type-review">
                                                                     <p className="text-sm-bold text-type-rv">Support</p>
                                                                     <p className="rate-type-review">
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
-                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Carento" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
+                                                                        <img src="/assets/imgs/page/tour-detail/star-big.svg" alt="Grand Auto" />
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -637,7 +637,7 @@ export default function ShopDetails() {
                                             <div className="box-agent-support border-bottom pb-3 mb-3">
                                                 <div className="card-author">
                                                     <div className="me-2">
-                                                        <img src="/assets/imgs/template/icons/car-1.png" alt="Carento" />
+                                                        <img src="/assets/imgs/template/icons/car-1.png" alt="Grand Auto" />
                                                     </div>
                                                     <div className="card-author-info">
                                                         <p className="text-lg-bold neutral-1000">Emily Rose</p>
@@ -675,7 +675,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Carento" />
+                                                        <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -688,7 +688,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Carento" />
+                                                        <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -701,7 +701,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Carento" />
+                                                        <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -714,7 +714,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Carento" />
+                                                        <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -727,7 +727,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Carento" />
+                                                        <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -748,74 +748,74 @@ export default function ShopDetails() {
                                     <ul className="carouselTicker__list">
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bmw-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/toyota.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                         <li className="carouselTicker__item">
                                             <div className="item-brand">
-                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Carento" />
-                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Carento" />
+                                                <img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="Grand Auto" />
+                                                <img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="Grand Auto" />
                                             </div>
                                         </li>
                                     </ul>

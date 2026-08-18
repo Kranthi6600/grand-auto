@@ -2,7 +2,7 @@ export default function ByPagination({ handlePreviousPage, totalPages, currentPa
 
 	return (
 		<>
-			<nav aria-label="Page navigation example">
+			<nav aria-label="Page navigation example" className="d-flex justify-content-center">
 				<ul className="pagination">
 					<li className="page-item" onClick={handlePreviousPage}>
 						<a className="page-link">

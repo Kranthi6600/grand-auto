@@ -11,14 +11,14 @@ export default function BlogDetails() {
                     <div className="page-header pt-30 background-body">
                         <div className="custom-container position-relative mx-auto">
                             <div className="bg-overlay rounded-12 overflow-hidden">
-                                <img className="w-100 h-100 rounded-12 img-banner" src="/assets/imgs/page-header/banner3.png" alt="Carento" />
+                                <img className="w-100 h-100 rounded-12 img-banner" src="/assets/imgs/page-header/banner3.png" alt="Grand Auto" />
                             </div>
                             <div className="container position-absolute z-1 top-50 start-50 translate-middle d-none d-lg-block">
                                 <span className="btn btn-label-tag background-3">Industry News</span>
                                 <h2 className="text-white py-3  w-75">How to Choose the Right Rental Car for Your Needs</h2>
                                 <div className="card-meta-user">
                                     <div className="box-author-small">
-                                        <img className="border-0" src="/assets/imgs/blog/blog-grid/avatar3.png" alt="Carento" />
+                                        <img className="border-0" src="/assets/imgs/blog/blog/avatar3.png" alt="Grand Auto" />
                                         <p className="text-sm-bold">By Jimmy Dave</p>
                                     </div>
                                     <div className="card-meta gap-2 d-flex">
@@ -33,13 +33,13 @@ export default function BlogDetails() {
                                     Home
                                 </Link>
                                 <span>
-                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
                                 </span>
-                                <Link href="/blog-grid" className="neutral-700 text-md-bold">
+                                <Link href="/blog" className="neutral-700 text-md-bold">
                                     News
                                 </Link>
                                 <span>
-                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Carento" />
+                                    <img src="/assets/imgs/template/icons/arrow-right.svg" alt="Grand Auto" />
                                 </span>
                                 <span className="neutral-1000 text-md-bold">How to Choose the Right Rental Car for Your Needs</span>
                             </div>
@@ -52,7 +52,7 @@ export default function BlogDetails() {
                             <h2 className="py-3">How to Choose the Right Rental Car for Your Needs</h2>
                             <div className="card-meta-user">
                                 <div className="box-author-small">
-                                    <img className="border-0" src="/assets/imgs/blog/blog-grid/avatar3.png" alt="Carento" />
+                                    <img className="border-0" src="/assets/imgs/blog/blog/avatar3.png" alt="Grand Auto" />
                                     <span className="text-sm-bold">By Jimmy Dave</span>
                                 </div>
                                 <div className="card-meta gap-2 d-flex">
@@ -76,10 +76,10 @@ export default function BlogDetails() {
                                                     </div>
                                                     <div className="d-flex flex-md-row flex-column align-items-center justify-content-center gap-3 mb-30">
                                                         <div>
-                                                            <img src="/assets/imgs/blog/blog-details/img-1.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-details/img-1.png" alt="Grand Auto" />
                                                         </div>
                                                         <div>
-                                                            <img src="/assets/imgs/blog/blog-details/img-2.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-details/img-2.png" alt="Grand Auto" />
                                                         </div>
                                                     </div>
                                                     <div className="content-detail-post">
@@ -91,8 +91,8 @@ export default function BlogDetails() {
                                                     <div className="row mb-30 d-none d-md-block">
                                                         <div className="col-8 mx-auto">
                                                             <div className="p-4 position-relative">
-                                                                <img className="position-absolute top-0 start-0 bottom-0 end-0 z-0 h-100" src="/assets/imgs/blog/blog-details/banner-img.png" alt="Carento" />
-                                                                <img className="position-absolute top-0 end-0 z-1" src="/assets/imgs/blog/blog-details/banner-car.png" alt="Carento" />
+                                                                <img className="position-absolute top-0 start-0 bottom-0 end-0 z-0 h-100" src="/assets/imgs/blog/blog-details/banner-img.png" alt="Grand Auto" />
+                                                                <img className="position-absolute top-0 end-0 z-1" src="/assets/imgs/blog/blog-details/banner-car.png" alt="Grand Auto" />
                                                                 <div className="position-relative z-1">
                                                                     <h6 className="text-white">Need a Car? Rent now!</h6>
                                                                     <p className="text-xs-medium text-white">Find the perfect vehicle for your journey today.</p>
@@ -115,10 +115,10 @@ export default function BlogDetails() {
                                                         </div>
                                                         <div className="d-flex flex-md-row flex-column align-items-center justify-content-center gap-3 mb-30">
                                                             <div>
-                                                                <img src="/assets/imgs/blog/blog-details/img-3.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-details/img-3.png" alt="Grand Auto" />
                                                             </div>
                                                             <div>
-                                                                <img src="/assets/imgs/blog/blog-details/img-4.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-details/img-4.png" alt="Grand Auto" />
                                                             </div>
                                                         </div>
                                                         <h6>Conclusion</h6>
@@ -208,18 +208,18 @@ export default function BlogDetails() {
                                                             <div className="item-review">
                                                                 <div className="head-review">
                                                                     <div className="author-review">
-                                                                        <img src="/assets/imgs/blog/blog-details/avatar-1.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-details/avatar-1.png" alt="Grand Auto" />
                                                                         <div className="author-info">
                                                                             <p className="text-lg-bold neutral-1000">Sarah Johnson</p>
                                                                             <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                         </div>
                                                                     </div>
                                                                     <div className="rate-review">
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                     </div>
                                                                 </div>
                                                                 <div className="content-review">
@@ -229,18 +229,18 @@ export default function BlogDetails() {
                                                             <div className="item-review">
                                                                 <div className="head-review">
                                                                     <div className="author-review">
-                                                                        <img src="/assets/imgs/blog/blog-details/avatar-2.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-details/avatar-2.png" alt="Grand Auto" />
                                                                         <div className="author-info">
                                                                             <p className="text-lg-bold neutral-1000">Michael Smith</p>
                                                                             <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                         </div>
                                                                     </div>
                                                                     <div className="rate-review">
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                     </div>
                                                                 </div>
                                                                 <div className="content-review">
@@ -250,18 +250,18 @@ export default function BlogDetails() {
                                                             <div className="item-review">
                                                                 <div className="head-review">
                                                                     <div className="author-review">
-                                                                        <img src="/assets/imgs/blog/blog-details/avatar-3.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-details/avatar-3.png" alt="Grand Auto" />
                                                                         <div className="author-info">
                                                                             <p className="text-lg-bold neutral-1000">Emily Williams</p>
                                                                             <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
                                                                         </div>
                                                                     </div>
                                                                     <div className="rate-review">
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
-                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Carento" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
+                                                                        <img className="background-brand-2 p-1" src="/assets/imgs/template/icons/star-white.svg" alt="Grand Auto" />
                                                                     </div>
                                                                 </div>
                                                                 <div className="content-review">
@@ -342,7 +342,7 @@ export default function BlogDetails() {
                                                             <div className="card-post">
                                                                 <div className="card-image">
                                                                     <Link href="/blog-details">
-                                                                        <img src="/assets/imgs/blog/blog-list/trending.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-list/trending.png" alt="Grand Auto" />
                                                                     </Link>
                                                                 </div>
                                                                 <div className="card-info">
@@ -357,7 +357,7 @@ export default function BlogDetails() {
                                                             <div className="card-post">
                                                                 <div className="card-image">
                                                                     <Link href="/blog-details">
-                                                                        <img src="/assets/imgs/blog/blog-list/trending1.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-list/trending1.png" alt="Grand Auto" />
                                                                     </Link>
                                                                 </div>
                                                                 <div className="card-info">
@@ -372,7 +372,7 @@ export default function BlogDetails() {
                                                             <div className="card-post">
                                                                 <div className="card-image">
                                                                     <Link href="/blog-details">
-                                                                        <img src="/assets/imgs/blog/blog-list/trending2.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-list/trending2.png" alt="Grand Auto" />
                                                                     </Link>
                                                                 </div>
                                                                 <div className="card-info">
@@ -387,7 +387,7 @@ export default function BlogDetails() {
                                                             <div className="card-post">
                                                                 <div className="card-image">
                                                                     <Link href="/blog-details">
-                                                                        <img src="/assets/imgs/blog/blog-list/trending3.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-list/trending3.png" alt="Grand Auto" />
                                                                     </Link>
                                                                 </div>
                                                                 <div className="card-info">
@@ -402,7 +402,7 @@ export default function BlogDetails() {
                                                             <div className="card-post">
                                                                 <div className="card-image">
                                                                     <Link href="/blog-details">
-                                                                        <img src="/assets/imgs/blog/blog-list/trending4.png" alt="Carento" />
+                                                                        <img src="/assets/imgs/blog/blog-list/trending4.png" alt="Grand Auto" />
                                                                     </Link>
                                                                 </div>
                                                                 <div className="card-info">
@@ -424,47 +424,47 @@ export default function BlogDetails() {
                                                     <ul className="list-photo-col-3">
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat2.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat2.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat3.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat3.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat4.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat4.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat5.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat5.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat6.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat6.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat7.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat7.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat8.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat8.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <img src="/assets/imgs/blog/blog-list/cat.png" alt="Carento" />
+                                                                <img src="/assets/imgs/blog/blog-list/cat.png" alt="Grand Auto" />
                                                             </Link>
                                                         </li>
                                                     </ul>
@@ -472,7 +472,7 @@ export default function BlogDetails() {
                                             </div>
                                             <div className="sidebar-banner">
                                                 <Link href="#">
-                                                    <img className="rounded-3 w-100" src="/assets/imgs/blog/blog-list/banner-ads.png" alt="Carento" />
+                                                    <img className="rounded-3 w-100" src="/assets/imgs/blog/blog-list/banner-ads.png" alt="Grand Auto" />
                                                 </Link>
                                             </div>
                                         </div>
@@ -512,11 +512,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             News
                                                         </Link>
                                                         <div className="card-meta">
@@ -532,7 +532,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Jimmy Dave</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -549,11 +549,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Trend
                                                         </Link>
                                                         <div className="card-meta">
@@ -569,7 +569,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Steven Job</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -586,11 +586,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Discovery
                                                         </Link>
                                                         <div className="card-meta">
@@ -606,7 +606,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">David Jame</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -623,11 +623,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             News
                                                         </Link>
                                                         <div className="card-meta">
@@ -643,7 +643,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Jimmy Dave</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -660,11 +660,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Trend
                                                         </Link>
                                                         <div className="card-meta">
@@ -680,7 +680,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">Steven Job</p>
                                                                 </div>
                                                                 <div className="card-button">
@@ -697,11 +697,11 @@ export default function BlogDetails() {
                                                 <div className="card-news background-card hover-up">
                                                     <div className="card-image">
                                                         <Link href="/blog-details">
-                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Carento" />
+                                                            <img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
                                                         </Link>
                                                     </div>
                                                     <div className="card-info">
-                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">
+                                                        <Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog">
                                                             Discovery
                                                         </Link>
                                                         <div className="card-meta">
@@ -717,7 +717,7 @@ export default function BlogDetails() {
                                                         <div className="card-program">
                                                             <div className="endtime">
                                                                 <div className="card-author">
-                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Carento" />
+                                                                    <img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
                                                                     <p className="text-sm-bold neutral-1000">David Jame</p>
                                                                 </div>
                                                                 <div className="card-button">

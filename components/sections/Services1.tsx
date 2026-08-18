@@ -16,7 +16,7 @@ export default function Services1() {
 						</div>
 						<div className="col-md-4 mt-md-0 mt-4">
 							<div className="d-flex justify-content-md-end justify-content-center">
-								<Link className="btn btn-primary" href="/cars-list-1">
+								<Link className="btn btn-primary" href="/vehicles">
 									View More
 									<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -32,7 +32,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-1.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-1.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
@@ -55,7 +55,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-2.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-2.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
@@ -78,7 +78,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-3.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-3.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
@@ -101,7 +101,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-4.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-4.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
@@ -124,7 +124,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-2.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-2.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
@@ -147,7 +147,7 @@ export default function Services1() {
 									<SwiperSlide>
 										<div className="card-spot background-card wow fadeInDown">
 											<div className="card-image">
-												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-3.png" alt="Carento" /></Link>
+												<Link href="/services"><img className="rounded-3" src="/assets/imgs/services/services-1/img-3.png" alt="Grand Auto" /></Link>
 											</div>
 											<div className="card-info background-card">
 												<div className="card-left">
