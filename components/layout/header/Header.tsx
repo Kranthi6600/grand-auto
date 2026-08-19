@@ -84,9 +84,6 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu, handleO
                                     <div className="d-none d-xxl-inline-block align-middle mr-15">
                                         <ThemeSwitch />
                                     </div>
-                                    <Link className="btn btn-signin background-brand-2 text-dark" href="#">
-                                        Add Listing
-                                    </Link>
                                 </div>
                                 <div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
                                     <img src="/assets/imgs/template/icons/menu.svg" alt="Grand Auto" />
