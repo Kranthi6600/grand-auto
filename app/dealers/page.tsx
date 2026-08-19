@@ -51,7 +51,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-1.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-1.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -71,7 +71,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-2.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-2.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -91,7 +91,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-3.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-3.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -111,7 +111,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-4.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-4.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -132,7 +132,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-5.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-5.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -152,7 +152,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-6.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-6.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -173,7 +173,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-7.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-7.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -194,7 +194,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-8.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-8.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -215,7 +215,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-9.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-9.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -235,7 +235,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-10.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-10.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -255,7 +255,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-11.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-11.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -275,7 +275,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-12.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-12.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -295,7 +295,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-13.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-13.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -315,7 +315,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-2.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-2.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">
@@ -336,7 +336,7 @@ export default function DealerListing() {
 									<div className="card-contact card-dealer d-flex">
 										<div className="card-image me-3">
 											<div className="position-relative">
-												<img src="/assets/imgs/dealer/dealers/icon-4.svg" alt="Grand Auto" />
+												<img src="/assets/imgs/dealer/dealer-listing/icon-4.svg" alt="Grand Auto" />
 											</div>
 										</div>
 										<div className="card-info">

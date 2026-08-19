@@ -104,19 +104,19 @@ export default function ShopDetails() {
                                         <div className="box-banner-activities border rounded-3 overflow-hidden">
                                             <Slider {...settingsMain} asNavFor={nav2 as any} ref={(slider) => setSlider1(slider as any)} className="banner-activities-detail">
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide-activity">
-                                                    <img src="/assets/imgs/shop/shop-details/img-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/img-1.png" alt="Grand Auto" />
                                                 </div>
                                             </Slider>
                                             <div className="box-button-abs">
@@ -130,28 +130,28 @@ export default function ShopDetails() {
                                         <div className="slider-thumnail-activities">
                                             <Slider {...settingsThumbs} asNavFor={nav1 as any} ref={(slider) => setSlider2(slider as any)} className="slider-nav-thumbnails-activities-detail shop-thumb-nav">
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-2.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-3.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-4.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-1.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-1.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-2.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-2.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-3.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-3.png" alt="Grand Auto" />
                                                 </div>
                                                 <div className="banner-slide border p-0 mx-2 rounded-3">
-                                                    <img src="/assets/imgs/shop/shop-details/thumb-4.png" alt="Grand Auto" />
+                                                    <img src="/assets/imgs/shop-list/shop-details/thumb-4.png" alt="Grand Auto" />
                                                 </div>
                                             </Slider>
                                         </div>
@@ -171,7 +171,7 @@ export default function ShopDetails() {
                                                 SKU <span className="text-md-bold neutral-1000 ms-1 text-decoration-underline">LVA-4125</span>{" "}
                                             </Link>
                                             <Link href="#">
-                                                <img src="/assets/imgs/shop/shop/stock.png" alt="Grand Auto" />
+                                                <img src="/assets/imgs/shop/shop-list/stock.png" alt="Grand Auto" />
                                             </Link>
                                         </div>
                                         <div className="tour-title-main">
@@ -414,7 +414,7 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-1.png" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/blog-grid/blog-details/avatar-1.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Sarah Johnson</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
@@ -431,7 +431,7 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-2.png" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/blog-grid/blog-details/avatar-2.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Michael Smith</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
@@ -448,7 +448,7 @@ export default function ShopDetails() {
                                                         <div className="item-review">
                                                             <div className="head-review">
                                                                 <div className="author-review">
-                                                                    <img src="/assets/imgs/blog/blog-details/avatar-3.png" alt="Grand Auto" />
+                                                                    <img src="/assets/imgs/blog-grid/blog-details/avatar-3.png" alt="Grand Auto" />
                                                                     <div className="author-info">
                                                                         <p className="text-lg-bold">Emily Williams</p>
                                                                         <p className="text-sm-medium neutral-500">December 4, 2024 at 3:12 pm</p>
@@ -675,7 +675,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Grand Auto" />
+                                                        <img src="/assets/imgs/shop-list/shop-details/other-item1.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -688,7 +688,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Grand Auto" />
+                                                        <img src="/assets/imgs/shop-list/shop-details/other-item2.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -701,7 +701,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Grand Auto" />
+                                                        <img src="/assets/imgs/shop-list/shop-details/other-item3.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -714,7 +714,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Grand Auto" />
+                                                        <img src="/assets/imgs/shop-list/shop-details/other-item4.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">
@@ -727,7 +727,7 @@ export default function ShopDetails() {
                                             <div className="d-flex align-items-center mb-3">
                                                 <div className="me-3 border rounded-3 overflow-hidden">
                                                     <Link href="#">
-                                                        <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Grand Auto" />
+                                                        <img src="/assets/imgs/shop-list/shop-details/other-item5.png" alt="Grand Auto" />
                                                     </Link>
                                                 </div>
                                                 <div className="position-relative">

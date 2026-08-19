@@ -87,7 +87,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item1.png" alt="Grand Auto" />
+                                            <img src="/assets/imgs/shop-list/shop-details/other-item1.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -100,7 +100,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item2.png" alt="Grand Auto" />
+                                            <img src="/assets/imgs/shop-list/shop-details/other-item2.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -113,7 +113,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item3.png" alt="Grand Auto" />
+                                            <img src="/assets/imgs/shop-list/shop-details/other-item3.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -126,7 +126,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item4.png" alt="Grand Auto" />
+                                            <img src="/assets/imgs/shop-list/shop-details/other-item4.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">
@@ -139,7 +139,7 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
                                 <div className="d-flex align-items-center mb-3">
                                     <div className="me-3 border rounded-3 overflow-hidden mw-65">
                                         <Link href="/shop-details">
-                                            <img src="/assets/imgs/shop/shop-details/other-item5.png" alt="Grand Auto" />
+                                            <img src="/assets/imgs/shop-list/shop-details/other-item5.png" alt="Grand Auto" />
                                         </Link>
                                     </div>
                                     <div className="position-relative">

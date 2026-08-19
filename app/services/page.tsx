@@ -477,7 +477,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-1.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -487,7 +487,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-1.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -500,7 +500,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-2.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -510,7 +510,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-2.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -523,7 +523,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-3.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -533,7 +533,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-3.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -546,7 +546,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-1.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -556,7 +556,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-1.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -569,7 +569,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-2.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -579,7 +579,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-2.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
@@ -592,7 +592,7 @@ export default function Services() {
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
 														<Link href="/blog-details">
-															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="Grand Auto" />
+															<img src="/assets/imgs/blog-grid/blog-1/img-3.png" alt="Grand Auto" />
 														</Link>
 													</div>
 													<div className="card-info">
@@ -602,7 +602,7 @@ export default function Services() {
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
-																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="Grand Auto" />
+																	<img src="/assets/imgs/blog-grid/blog-1/avatar-3.png" alt="Grand Auto" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
 																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>

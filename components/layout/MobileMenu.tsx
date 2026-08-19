@@ -48,6 +48,15 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 									</ul>
 								</nav>
 							</div>
+							<div className="mobile-contact-info mt-30">
+								<h6 className="text-lg-bold neutral-1000 mb-15">Contact Us</h6>
+								<p className="text-md-medium neutral-1000 mb-10">
+									4517 Washington Ave. <br />
+									Manchester, Kentucky 39495
+								</p>
+								<p className="text-md-medium neutral-1000 mb-10">Hours: 8:00 - 17:00, Mon - Sat</p>
+								<p className="text-md-medium neutral-1000">support@grandauto.com</p>
+							</div>
 						</div>
 					</div>
 				</PerfectScrollbar>

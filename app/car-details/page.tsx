@@ -108,7 +108,7 @@ export default function CarsDetails2() {
                                         <div className="row g-3">
                                             <div className="col-lg-7">
                                                 <div className="position-relative rounded-12 overflow-hidden">
-                                                    <img src="/assets/imgs/cars-details//banner6.png" alt="Travile" />
+                                                    <img src="/assets/imgs/cars-details/banner6.png" alt="Travile" />
                                                     <div className="box-button-abs">
                                                         <Link className="btn btn-primary rounded-pill" href="#">
                                                             <svg width={22} height={22} viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -131,18 +131,18 @@ export default function CarsDetails2() {
                                                 <div className="d-flex gap-3">
                                                     <div className="d-flex gap-3 flex-column w-100">
                                                         <div className="rounded-12 overflow-hidden w-100">
-                                                            <img className="w-100" src="/assets/imgs/cars-details//banner7.png" alt="Travile" />
+                                                            <img className="w-100" src="/assets/imgs/cars-details/banner7.png" alt="Travile" />
                                                         </div>
                                                         <div className="rounded-12 overflow-hidden w-100">
-                                                            <img className="w-100" src="/assets/imgs/cars-details//banner8.png" alt="Travile" />
+                                                            <img className="w-100" src="/assets/imgs/cars-details/banner8.png" alt="Travile" />
                                                         </div>
                                                     </div>
                                                     <div className="d-flex gap-3 flex-column w-100">
                                                         <div className="rounded-12 overflow-hidden w-100">
-                                                            <img className="w-100" src="/assets/imgs/cars-details//banner9.png" alt="Travile" />
+                                                            <img className="w-100" src="/assets/imgs/cars-details/banner9.png" alt="Travile" />
                                                         </div>
                                                         <div className="rounded-12 overflow-hidden w-100">
-                                                            <img className="w-100" src="/assets/imgs/cars-details//banner10.png" alt="Travile" />
+                                                            <img className="w-100" src="/assets/imgs/cars-details/banner10.png" alt="Travile" />
                                                         </div>
                                                     </div>
                                                 </div>

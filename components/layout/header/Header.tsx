@@ -85,10 +85,7 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu, handleO
                                         <ThemeSwitch />
                                     </div>
                                 </div>
-                                <div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
-                                    <img src="/assets/imgs/template/icons/menu.svg" alt="Grand Auto" />
-                                </div>
-                                <div className="burger-icon burger-icon-white" onClick={handleMobileMenu}>
+                                <div className="burger-icon burger-icon-white align-self-center" onClick={handleMobileMenu}>
                                     <span className="burger-icon-top" />
                                     <span className="burger-icon-mid"> </span>
                                     <span className="burger-icon-bottom"> </span>
